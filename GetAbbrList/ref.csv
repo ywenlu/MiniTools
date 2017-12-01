@@ -1,0 +1,115 @@
+txt
+musement (DIA)
+" there have been increasing interests in the field of
+Human Computer Interaction (HCI)"
+ signals include electroencephalography (EEG)
+ measurements include electrocardiography (ECG)
+ Electrooculography (EOG)
+ electromyography (EMG)
+ electrodermal activity (EDA)
+ blood volume (BVP)
+ respiration (RSP)
+ skin temperature (SKT)
+ measuring electroencephalographic (EEG)
+ Bayesian Networks (BNT)
+ Regression Trees (RT)
+ and Decision Trees  (DT)
+ Naïve Bayes Classifier  (NB)
+ Linear Discriminant Analysis (LDA)
+ and Support Vector Machines (SVM)
+ Vera am Mittag (VAM)
+"
+Signals from the  central nervous system (CNS)"
+ such as Electro-EncephaloGram (EEG)
+ or Magneto-EncephaloGram (MEG)
+ have been able to non-intrusively measure signals from peripheral nervous system (PNS)
+ Multimedia content analysis (MCA)
+ and MEG and MCA features are used to learn multi-task learning (MTL)
+ and orbicularis oculi electromyographic activity (EMG)
+ skin conductance level (EDA)
+ and cardiac interbeat intervals (IBI)
+ profile the stress responses on the EDA of patients diagnosed with post-traumatic stress disorder (PTSD)
+heart rate (HR)
+ blood volume pulse (BVP)
+ and skin conductance (EDA)
+ respiration (RESP)
+ temperature (TEMP)
+ Game Experience Questionnaire (GEQ)
+ and amusement (DIA)
+ as high sampling rate is recommended for measuring heart rate variability (HRV)
+ two Electromyogram (EMG)
+item two Electromyogram (EMG)
+ Electromyogram (EMG)
+ the most annotated events are events with high level of arousal and low level of valence (HALV)
+ followed by events with high level of arousal and high level of valence (HAHV)
+ and then the events with low level of arousal and low level of valence (LALV)
+"
+Events with low level of arousal and high level of valence (LAHV)"
+"
+
+Affective Gaming  (AG)"
+ They created the facial  action  coding  system (FACS)
+ analyzes the faces through an holistic spatial analysis by using the method such as Principal Component Analysis (PCA)
+ signals include electroencephalography (EEG)
+ measurements include electrocardiography (ECG)
+"
+Electrooculography (EOG)"
+ electromyography (EMG)
+ electrodermal activity (EDA)
+"
+blood volume (BVP)"
+ respiration (RSP)
+ skin temperature (SKT)
+"
+
+Electroencephalography  (EEG)"
+  and  other methods such as MRI  measure electrical  activity caused spontaneously by functioning of the central nervous system (CNS)
+"
+
+Peripheral nervous system (PNS)"
+"
+Common emotion assessment of human computer interaction  (HCI)"
+ Dynamic Difficulty Adjustment (DDA)
+"
+electroencephalogram  (EEG)"
+ we applied recursive feature elimination (RFE)
+ scores smaller or equal to 1 are split into low arousal (LA)
+ class and the scores strictly greater than 1 are split into high arousal (HA)
+ we use a Leave One Out cross-validation (LOOCV)
+ and wrapper (RFE)
+ in order to analysis the heart rate (HR)
+ or the heart rate variability (HRV)
+ A Teager energy operator (TEO)
+recurrent quantification analysis feature set (RQA)
+ recurrent quantification analysis (RQA)
+ recurrent rate (RR)
+ determinism (DET)
+ entropy (ENTR)
+ Then we apply a R-peak detection and compute the inter-beat-interval (IBI)
+ heart rate (HR)
+ and  heart rate viability (HRV)
+ The transformed signals include the respiration rate (RR)
+Recurrent rate (RR)
+Determinism (DET)
+Entropy (ENTR)
+item Mean-centering (MC)
+item Range normalization (RN)
+item Standardization (ST)
+item Box-Cox transformation (BC)
+Mean-centering (MC)
+Range normalization (RN)
+Standardization (ST)
+Accuracy  (ACC)
+ while the event group with low level of arousal and valence (LALV)
+ events with high arousal level (HA)
+ are easier to detect than low arousal (LA)
+Accuracy  (ACC)
+ immersion and amusement (DIA)
+"
+    Decision tree (DT)"
+Accuracy  (ACC)
+ represents the generalization ability (GA)
+leave-one-subject-out cross-validation (LOSOCV)
+leave-one-out cross-validation (LOOCV)
+ the model predicting ability (PA)
+ the model generalization ability (GA)
