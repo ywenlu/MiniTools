@@ -5,6 +5,6 @@ Get Acronyme list of files in the directory
 python GetAbbrList.py *directory path*
 
 **Output:**
-latexOutput.tex
-csvOutput.tex
-ref.csv
+. latexOutput.tex
+. csvOutput.csv
+. ref.csv
